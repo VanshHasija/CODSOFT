@@ -1,0 +1,4 @@
+Movie Rating Prediction Output
+------------------------------
+Mean Squared Error: 2.28
+R2 Score: -0.22
